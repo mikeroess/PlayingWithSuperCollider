@@ -1,0 +1,1 @@
+Ain't nothing going on here yet.  Just noodling around with SuperCollider trying to learn a bit about making music programatically.  

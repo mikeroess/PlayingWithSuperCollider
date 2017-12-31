@@ -1,0 +1,1 @@
+Unit Generator: A function that produces a stream of numbers suitable for digital audio.
